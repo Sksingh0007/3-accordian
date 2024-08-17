@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: "Pippins", sans-serif;
+    font-family: "Poppins", sans-serif;
 }
 body{
     background: url(random2.webp) no-repeat center center /cover;
@@ -12,6 +12,7 @@ body{
     align-items: center;
 
 }
+
 
 .container{
     width: 50%;
